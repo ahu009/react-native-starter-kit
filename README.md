@@ -105,3 +105,13 @@ This repo is a great place to start, but if you'd prefer to sit back and have yo
 - [This blog post](http://jkaufman.io/react-web-native-codesharing/) helped put the ideas into action
 
 _If there's any other ideas presented in this repo, that you think worth mentioning - feel free open a pull request :)_
+
+# 8 Features:
+- Account creation / Sign In / Sign Out
+- Manage / Overview Appointments from profile page
+- Create / Delete Appointments
+- Invite friends to edit appointment
+- Auto Calculate best times depending on all invited people's inputs
+- Permissions to edit appointment (Requests from invited users)
+- See who has not inputted times
+- Push notification when you have an appointment coming up
